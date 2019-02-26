@@ -7,13 +7,14 @@
 body {
 	background: url(../img/dejavju1.jpg) no-repeat;
 	background-size: cover;
+	overflow-x: hidden;
 }
 
 header {
 	background: rgba(0, 0, 0, 0.6);
 	text-align: center;
 	margin-top: 30px;
-	padding: 20px 0 20px 0;
+	/*padding: 20px 0 20px 0;*/
 }
 
 header h1 {
